@@ -1,0 +1,10 @@
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\bin\Debug\FunWithMouse.exe.config
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\bin\Debug\FunWithMouse.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\bin\Debug\FunWithMouse.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\obj\Debug\FunWithMouse.csprojAssemblyReference.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\obj\Debug\FunWithMouse.Form1.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\obj\Debug\FunWithMouse.Properties.Resources.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\obj\Debug\FunWithMouse.csproj.GenerateResource.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\obj\Debug\FunWithMouse.csproj.CoreCompileInputs.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\obj\Debug\FunWithMouse.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\FunWithMouse\obj\Debug\FunWithMouse.pdb
